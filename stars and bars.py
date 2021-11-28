@@ -37,4 +37,5 @@ for a in range(len(start)):
         
     print(end_point-start_point-1-between)
 
-#如果start_point=end_point要handle，不然會變-1，只要算出來的值<0 return 0 就好
+#這個還要加，如果start_point=end_point要handle，不然會變-1，只要算出來的值<0 return 0 就好
+
